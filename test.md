@@ -5,3 +5,5 @@
 
 > git clone
 Hello xD
+
+**Hello my dear friend! From ekot**
