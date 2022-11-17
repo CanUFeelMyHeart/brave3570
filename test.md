@@ -4,4 +4,5 @@
 ## Hello, GitHub
 
 > git clone
-Hello xD
+Hello xD 
+Не знаю что добавить думаю многие уже и так достаточно сделали))
