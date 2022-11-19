@@ -1,7 +1,8 @@
-## 111111111111111111111111
 
-> kfkfkffkorf2oro2or
 ## Hello, GitHub
 
 > git clone
-Hello xD
+
+> git pull – получение изменений и слияние с локальной версией версии с Githab
+
+> git push – отправляет локальную версию репозитория на github
